@@ -1,8 +1,8 @@
-[gd_scene load_steps=4 format=4 uid="uid://6xcayyif01t3"]
+[gd_scene load_steps=4 format=4 uid="uid://bwofc7edsgnl6"]
 
 [ext_resource type="Texture2D" uid="uid://brp7sk33hp6mq" path="res://kenney_abstract-platformer/Tilesheet/tilesheet_complete.png" id="1_o38ix"]
 
-[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_gfac4"]
+[sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_v8hy5"]
 texture = ExtResource("1_o38ix")
 0:0/0 = 0
 1:0/0 = 0
@@ -3215,7 +3215,8 @@ texture = ExtResource("1_o38ix")
 46:37/0 = 0
 
 [sub_resource type="TileSet" id="TileSet_8fpqt"]
-sources/0 = SubResource("TileSetAtlasSource_gfac4")
+physics_layer_0/collision_layer = 1
+sources/0 = SubResource("TileSetAtlasSource_v8hy5")
 
 [node name="Arena" type="Node2D"]
 

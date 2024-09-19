@@ -1,19 +1,41 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1726776589
-arena.tscn::PackedScene::-1::1726775710::0::1::::<><>::
+::res://::1726777561
+arena.tscn::PackedScene::3959785375925326329::1726777462::0::1::::<><>::uid://brp7sk33hp6mq::::res://kenney_abstract-platformer/Tilesheet/tilesheet_complete.png
 default_env.tres::Environment::-1::1726776493::0::1::::<><>::
 icon.png::CompressedTexture2D::6731086890661188728::1726776493::1726776504::1::::<><>::
-main_game.tscn::PackedScene::-1::1726775585::0::1::::<><>::
+main_game.tscn::PackedScene::3356105624707308595::1726777431::0::1::::<><>::uid://dgl7fvxdf04we::::res://Player.tscn<>uid://bwofc7edsgnl6::::res://arena.tscn
 player.gd::GDScript::-1::1726775479::0::1::::<>CharacterBody2D<>::
-Player.tscn::PackedScene::-1::1726775585::0::1::::<><>::
+Player.tscn::PackedScene::7605056279605065756::1726777431::0::1::::<><>::res://player.gd<>uid://c25uauokq0f4c::::res://icon.png
 ::res://addons/::1726776493
-::res://kenney_abstract-platformer/::1726776577
+::res://brackeys_platformer_assets/::1726777561
+LICENSE & CREDITS.txt::TextFile::-1::1726777539::0::1::::<><>::
+::res://brackeys_platformer_assets/fonts/::1726777561
+PixelOperator8-Bold.ttf::FontFile::785726956712473762::1726777539::1726777565::1::::<><>::
+PixelOperator8.ttf::FontFile::6090986397222184378::1726777539::1726777565::1::::<><>::
+::res://brackeys_platformer_assets/music/::1726777561
+time_for_adventure.mp3::AudioStreamMP3::2824442501256585078::1726777539::1726777565::1::::<><>::
+::res://brackeys_platformer_assets/sounds/::1726777561
+coin.wav::AudioStreamWAV::3592938945977231274::1726777539::1726777565::1::::<><>::
+explosion.wav::AudioStreamWAV::6702461890420401698::1726777539::1726777565::1::::<><>::
+hurt.wav::AudioStreamWAV::6784163230676900588::1726777539::1726777565::1::::<><>::
+jump.wav::AudioStreamWAV::623848079297623956::1726777539::1726777565::1::::<><>::
+power_up.wav::AudioStreamWAV::7641722141739646596::1726777539::1726777565::1::::<><>::
+tap.wav::AudioStreamWAV::2896506171660739505::1726777539::1726777565::1::::<><>::
+::res://brackeys_platformer_assets/sprites/::1726777561
+coin.png::CompressedTexture2D::8743819434767129515::1726777540::1726777565::1::::<><>::
+fruit.png::CompressedTexture2D::2700469342310247461::1726777540::1726777565::1::::<><>::
+knight.png::CompressedTexture2D::1322477696755670768::1726777540::1726777565::1::::<><>::
+platforms.png::CompressedTexture2D::2131930042297831404::1726777540::1726777565::1::::<><>::
+slime_green.png::CompressedTexture2D::576663902212511465::1726777540::1726777565::1::::<><>::
+slime_purple.png::CompressedTexture2D::7594066098627595915::1726777540::1726777565::1::::<><>::
+world_tileset.png::CompressedTexture2D::4596720820293939083::1726777540::1726777565::1::::<><>::
+::res://kenney_abstract-platformer/::1726776676
 License.txt::TextFile::-1::1726177376::0::1::::<><>::
 Preview.png::CompressedTexture2D::9160123689249982833::1726177376::1726776676::1::::<><>::
 Preview_KenneyNL.png::CompressedTexture2D::5835588960790363010::1726177376::1726776676::1::::<><>::
 Sample.png::CompressedTexture2D::3550665862047143674::1726177376::1726776676::1::::<><>::
 ::res://kenney_abstract-platformer/PNG/::1726776577
-::res://kenney_abstract-platformer/PNG/Backgrounds/::1726776575
+::res://kenney_abstract-platformer/PNG/Backgrounds/::1726776678
 set1_background.png::CompressedTexture2D::123554083141867136::1726177376::1726776678::1::::<><>::
 set1_hills.png::CompressedTexture2D::3266388531494669865::1726177376::1726776678::1::::<><>::
 set1_tiles.png::CompressedTexture2D::981067394561700064::1726177376::1726776678::1::::<><>::
@@ -26,7 +48,7 @@ set3_tiles.png::CompressedTexture2D::5572273594789454129::1726177376::1726776678
 set4_background.png::CompressedTexture2D::7950095464049852803::1726177377::1726776678::1::::<><>::
 set4_hills.png::CompressedTexture2D::1626886805725805902::1726177377::1726776678::1::::<><>::
 set4_tiles.png::CompressedTexture2D::4079926710099549956::1726177377::1726776678::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Enemies/::1726776575
+::res://kenney_abstract-platformer/PNG/Enemies/::1726776678
 enemyFloating_1.png::CompressedTexture2D::7315184396661330250::1726177377::1726776678::1::::<><>::
 enemyFloating_2.png::CompressedTexture2D::824668119830192073::1726177377::1726776678::1::::<><>::
 enemyFloating_3.png::CompressedTexture2D::4412599244436083499::1726177377::1726776677::1::::<><>::
@@ -51,7 +73,7 @@ enemyWalking_1.png::CompressedTexture2D::459346306369514553::1726177378::1726776
 enemyWalking_2.png::CompressedTexture2D::8512178438443743381::1726177378::1726776678::1::::<><>::
 enemyWalking_3.png::CompressedTexture2D::1053345710517508558::1726177378::1726776678::1::::<><>::
 enemyWalking_4.png::CompressedTexture2D::3743574982449562364::1726177379::1726776678::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Items/::1726776576
+::res://kenney_abstract-platformer/PNG/Items/::1726776678
 blueCrystal.png::CompressedTexture2D::4400459891565276145::1726177379::1726776678::1::::<><>::
 blueGem.png::CompressedTexture2D::3032221214468586543::1726177379::1726776678::1::::<><>::
 blueJewel.png::CompressedTexture2D::6224107626343009556::1726177379::1726776678::1::::<><>::
@@ -77,7 +99,7 @@ redJewel.png::CompressedTexture2D::6764528680568894839::1726177380::1726776677::
 yellowCrystal.png::CompressedTexture2D::1590992217111893132::1726177380::1726776677::1::::<><>::
 yellowGem.png::CompressedTexture2D::8919350506943287227::1726177380::1726776677::1::::<><>::
 yellowJewel.png::CompressedTexture2D::3018693304974962459::1726177381::1726776677::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Other/::1726776576
+::res://kenney_abstract-platformer/PNG/Other/::1726776679
 blockBrown.png::CompressedTexture2D::7845183656155674594::1726177381::1726776677::1::::<><>::
 blockBrown_broken.png::CompressedTexture2D::7316714922914382517::1726177381::1726776677::1::::<><>::
 blockGreen.png::CompressedTexture2D::7876284592806615173::1726177381::1726776677::1::::<><>::
@@ -209,7 +231,7 @@ vine.png::CompressedTexture2D::1505673061495375588::1726177391::1726776678::1:::
 vine_bottom.png::CompressedTexture2D::4941812004309389971::1726177391::1726776678::1::::<><>::
 vine_bottomAlt.png::CompressedTexture2D::4070202407484506161::1726177391::1726776678::1::::<><>::
 ::res://kenney_abstract-platformer/PNG/Players/::1726776576
-::res://kenney_abstract-platformer/PNG/Players/Player Blue/::1726776576
+::res://kenney_abstract-platformer/PNG/Players/Player Blue/::1726776678
 playerBlue_dead.png::CompressedTexture2D::9160371495624708027::1726177391::1726776678::1::::<><>::
 playerBlue_duck.png::CompressedTexture2D::2242210763320336850::1726177391::1726776676::1::::<><>::
 playerBlue_fall.png::CompressedTexture2D::3854317853201350572::1726177391::1726776676::1::::<><>::
@@ -228,7 +250,7 @@ playerBlue_walk2.png::CompressedTexture2D::3833553705495555254::1726177392::1726
 playerBlue_walk3.png::CompressedTexture2D::4365301314827490940::1726177392::1726776676::1::::<><>::
 playerBlue_walk4.png::CompressedTexture2D::7704618032837104496::1726177392::1726776676::1::::<><>::
 playerBlue_walk5.png::CompressedTexture2D::3592178772524751124::1726177392::1726776676::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Players/Player Green/::1726776576
+::res://kenney_abstract-platformer/PNG/Players/Player Green/::1726776676
 playerGreen_dead.png::CompressedTexture2D::5579628968099278026::1726177392::1726776676::1::::<><>::
 playerGreen_duck.png::CompressedTexture2D::8168593219892176976::1726177392::1726776675::1::::<><>::
 playerGreen_fall.png::CompressedTexture2D::810665769352654170::1726177392::1726776675::1::::<><>::
@@ -247,7 +269,7 @@ playerGreen_walk2.png::CompressedTexture2D::5177083667564176403::1726177393::172
 playerGreen_walk3.png::CompressedTexture2D::99283106858486191::1726177393::1726776676::1::::<><>::
 playerGreen_walk4.png::CompressedTexture2D::8324972065348825871::1726177393::1726776676::1::::<><>::
 playerGreen_walk5.png::CompressedTexture2D::5806958023065486407::1726177393::1726776676::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Players/Player Grey/::1726776576
+::res://kenney_abstract-platformer/PNG/Players/Player Grey/::1726776676
 playerGrey_dead.png::CompressedTexture2D::1214810981400632662::1726177394::1726776676::1::::<><>::
 playerGrey_duck.png::CompressedTexture2D::5162410800826295277::1726177394::1726776676::1::::<><>::
 playerGrey_fall.png::CompressedTexture2D::314618049151205460::1726177394::1726776676::1::::<><>::
@@ -266,7 +288,7 @@ playerGrey_walk2.png::CompressedTexture2D::1530931001199347811::1726177394::1726
 playerGrey_walk3.png::CompressedTexture2D::8952034529534363632::1726177395::1726776675::1::::<><>::
 playerGrey_walk4.png::CompressedTexture2D::4156708019123031981::1726177395::1726776675::1::::<><>::
 playerGrey_walk5.png::CompressedTexture2D::3204556507805935383::1726177395::1726776675::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Players/Player Red/::1726776577
+::res://kenney_abstract-platformer/PNG/Players/Player Red/::1726776675
 playerRed_dead.png::CompressedTexture2D::6875910055849947078::1726177395::1726776675::1::::<><>::
 playerRed_duck.png::CompressedTexture2D::5891384304599967429::1726177395::1726776675::1::::<><>::
 playerRed_fall.png::CompressedTexture2D::2857186193401811574::1726177395::1726776675::1::::<><>::
@@ -286,7 +308,7 @@ playerRed_walk3.png::CompressedTexture2D::7888437438665200664::1726177396::17267
 playerRed_walk4.png::CompressedTexture2D::4449347626608742848::1726177396::1726776675::1::::<><>::
 playerRed_walk5.png::CompressedTexture2D::3645851958901416066::1726177396::1726776675::1::::<><>::
 ::res://kenney_abstract-platformer/PNG/Tiles/::1726776577
-::res://kenney_abstract-platformer/PNG/Tiles/Blue tiles/::1726776577
+::res://kenney_abstract-platformer/PNG/Tiles/Blue tiles/::1726776677
 tileBlue_01.png::CompressedTexture2D::3356290931231604124::1726177396::1726776675::1::::<><>::
 tileBlue_02.png::CompressedTexture2D::7680930726368433138::1726177396::1726776675::1::::<><>::
 tileBlue_03.png::CompressedTexture2D::8449934242336780682::1726177396::1726776675::1::::<><>::
@@ -314,7 +336,7 @@ tileBlue_24.png::CompressedTexture2D::4682027180211263038::1726177398::172677667
 tileBlue_25.png::CompressedTexture2D::8739489544298143190::1726177398::1726776675::1::::<><>::
 tileBlue_26.png::CompressedTexture2D::6102486069849083018::1726177398::1726776677::1::::<><>::
 tileBlue_27.png::CompressedTexture2D::494331318791062800::1726177398::1726776677::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Tiles/Brown tiles/::1726776577
+::res://kenney_abstract-platformer/PNG/Tiles/Brown tiles/::1726776677
 tileBrown_01.png::CompressedTexture2D::1872053789430075316::1726177398::1726776677::1::::<><>::
 tileBrown_02.png::CompressedTexture2D::1510420614768959258::1726177398::1726776677::1::::<><>::
 tileBrown_03.png::CompressedTexture2D::2375847780420172616::1726177398::1726776677::1::::<><>::
@@ -342,7 +364,7 @@ tileBrown_24.png::CompressedTexture2D::3167070844276143522::1726177400::17267766
 tileBrown_25.png::CompressedTexture2D::7897698265691598072::1726177400::1726776677::1::::<><>::
 tileBrown_26.png::CompressedTexture2D::7601988496110946462::1726177400::1726776677::1::::<><>::
 tileBrown_27.png::CompressedTexture2D::5748269981823582619::1726177401::1726776677::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Tiles/Green tiles/::1726776577
+::res://kenney_abstract-platformer/PNG/Tiles/Green tiles/::1726776677
 tileGreen_01.png::CompressedTexture2D::5341492201508996651::1726177401::1726776677::1::::<><>::
 tileGreen_02.png::CompressedTexture2D::523964813930539667::1726177401::1726776677::1::::<><>::
 tileGreen_03.png::CompressedTexture2D::7622220013598253100::1726177401::1726776677::1::::<><>::
@@ -370,7 +392,7 @@ tileGreen_24.png::CompressedTexture2D::3085806296732820856::1726177402::17267766
 tileGreen_25.png::CompressedTexture2D::2564535151832896829::1726177402::1726776676::1::::<><>::
 tileGreen_26.png::CompressedTexture2D::986750339120028974::1726177403::1726776676::1::::<><>::
 tileGreen_27.png::CompressedTexture2D::2605258051180293790::1726177403::1726776676::1::::<><>::
-::res://kenney_abstract-platformer/PNG/Tiles/Yellow tiles/::1726776577
+::res://kenney_abstract-platformer/PNG/Tiles/Yellow tiles/::1726776676
 tileYellow_01.png::CompressedTexture2D::7410823013789333528::1726177403::1726776676::1::::<><>::
 tileYellow_02.png::CompressedTexture2D::5550722056800253028::1726177403::1726776676::1::::<><>::
 tileYellow_03.png::CompressedTexture2D::7065905518640294114::1726177403::1726776676::1::::<><>::
@@ -398,7 +420,7 @@ tileYellow_24.png::CompressedTexture2D::9167139085679017193::1726177404::1726776
 tileYellow_25.png::CompressedTexture2D::2724680754046871388::1726177404::1726776676::1::::<><>::
 tileYellow_26.png::CompressedTexture2D::240500134517979039::1726177404::1726776676::1::::<><>::
 tileYellow_27.png::CompressedTexture2D::3119243372644625625::1726177404::1726776676::1::::<><>::
-::res://kenney_abstract-platformer/Spritesheet/::1726776577
+::res://kenney_abstract-platformer/Spritesheet/::1726776677
 spritesheet_complete.png::CompressedTexture2D::3462116005212735278::1726177404::1726776677::1::::<><>::
 spritesheet_complete.xml::TextFile::-1::1726177405::0::1::::<><>::
 spritesheet_enemies.png::CompressedTexture2D::1333178269039502019::1726177405::1726776676::1::::<><>::
@@ -411,9 +433,9 @@ spritesheet_players.png::CompressedTexture2D::6707857907251064654::1726177405::1
 spritesheet_players.xml::TextFile::-1::1726177405::0::1::::<><>::
 spritesheet_tiles.png::CompressedTexture2D::5083203946175288721::1726177405::1726776676::1::::<><>::
 spritesheet_tiles.xml::TextFile::-1::1726177405::0::1::::<><>::
-::res://kenney_abstract-platformer/Tilesheet/::1726776577
+::res://kenney_abstract-platformer/Tilesheet/::1726776678
 tilesheet_complete.png::CompressedTexture2D::3612572349679560332::1726177405::1726776677::1::::<><>::
 tilesheet_complete_2X.png::CompressedTexture2D::2449994231804958991::1726177405::1726776678::1::::<><>::
-::res://kenney_abstract-platformer/Vector/::1726776577
+::res://kenney_abstract-platformer/Vector/::1726776677
 vector_backgrounds.svg::CompressedTexture2D::2806568230033104778::1726177405::1726776676::1::::<><>::
 vector_complete.svg::CompressedTexture2D::86724655530720885::1726177405::1726776677::1::::<><>::

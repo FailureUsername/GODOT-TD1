@@ -1,0 +1,5 @@
+res://main_game.tscn
+res://Player.tscn
+res://arena.tscn
+res://scenery.tscn
+res://player.gd
