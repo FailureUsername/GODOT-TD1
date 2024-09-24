@@ -1,5 +1,13 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1726779941
+::res://::1727153796
 default_env.tres::Environment::-1::1726779935::0::1::::<><>::
 icon.png::CompressedTexture2D::3015486978881256617::1726779935::1726779942::1::::<><>::
 ::res://addons/::1726779935
+::res://assets/::1726781469
+::res://assets/sprites/::1726782963
+knight.png::CompressedTexture2D::550802469020350033::1726782823::1726782963::1::::<><>::
+world_tileset.png::CompressedTexture2D::5148926185294486603::1726782823::1726782963::1::::<><>::
+::res://scenes/::1726785092
+game.tscn::PackedScene::1617098510031055396::1726785092::0::1::::<><>::uid://d25a41xieyi51::::res://scenes/player.tscn<>uid://cfmgcdxasj66j::::res://assets/sprites/world_tileset.png
+player.gd::GDScript::-1::1726784248::0::1::::<>CharacterBody2D<>::
+player.tscn::PackedScene::9116345351458600438::1726785034::0::1::::<><>::res://scenes/player.gd<>uid://h32vvo4vlm0h::::res://assets/sprites/knight.png
